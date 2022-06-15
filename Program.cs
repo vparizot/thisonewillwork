@@ -11,7 +11,9 @@ namespace this_will_work_too
         static int sum(int num)
         {
             int prrr = num + 4;
+            System.Console.WriteLine("sweet");
             return prrr;
+
         }
     }
 }
